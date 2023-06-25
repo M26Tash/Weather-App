@@ -1,16 +1,31 @@
-# weather_app
+<h1 align = "center"> Weather App </h1>
 
-A new Flutter project.
+The Weather app is a handy tool for getting up-to-date weather information for various locations around the world. It uses several libraries, including "provider", "http", "json" and "intl" to ensure reliable communication with external resources and proper processing of data.
 
-## Getting Started
+The main function of the application is to provide current weather, forecast for the coming days and other important meteorological data. To do this, the application calls the Open Weather Map API to get the relevant weather information. The API provides access to a variety of data, including temperature, humidity, wind speed, barometric pressure, and more.
 
-This project is a starting point for a Flutter application.
+The Weather app UI allows users to enter a desired location or use the device's current coordinates to get the weather. Once the data is received, weather information is displayed in a user-friendly and understandable format, providing users with up-to-date and accurate forecasts.
 
-A few resources to get you started if this is your first Flutter project:
+The Weather app provides a useful tool for those who want to be aware of the weather conditions, no matter where they are at the moment.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Screens
+<div align = "center">
+  <img src = "https://github.com/TashM26/Weather-App/assets/137183001/880577bf-eefb-44fe-b090-1ffdc9be0897" width = "300">
+  <img src = "https://github.com/TashM26/Weather-App/assets/137183001/86f8545d-96b6-4784-8f6c-62ea593c617d" width = "300">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Reach me
+<div>
+    <a href="mailto:tashdevteam@gmail.com">
+      <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width = "18" height = "14" />
+      <span>Contact Me</span>
+    </a>
+</div>
+
+<div>
+    <a href="https://www.instagram.com/m26_tash">
+      <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width = "18" height = "16"/>
+      <span>Follow Me</span>
+    </a>
+</div>
